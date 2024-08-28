@@ -1,0 +1,5 @@
+Prompt1: Claude Sonnet chosen due to correct realtime input validation
+Prompt2: Claude Sonnet chosen due to the static approach towards fuel efficiency conversion
+Prompt3: Claude Sonnet chosen due to better batch management techniques
+Prompt4: Claude Sonnet chosen as the Opus lacked the accuracy for decimal point values and edge cases
+Prompt5: None provided working unit tests
